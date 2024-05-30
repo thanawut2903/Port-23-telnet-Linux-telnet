@@ -10,11 +10,11 @@
 5.show options 
 
 ![image](https://github.com/thanawut2903/Port-23-telnet-Linux-telnet/assets/159118913/f26392b9-0330-4b89-b132-75e07ca75113)
-6.msf 6 > set RHOST <target>
+6.msf 6 > set RHOST (target ip)
 
-7.msf 6 > set user_file <path user.txt>
+7.msf 6 > set user_file (path user.txt)
 
-8.msf 6 > set pass_file <path password.txt>
+8.msf 6 > set pass_file (path password.txt)
 
 9.msf 6 > set stop_on_success true
 
