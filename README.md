@@ -7,7 +7,7 @@
 
 4.msf 6 > use auiliary/scanner/telnet/telnet_login
 
-5.show options 
+5.msf 6 > show options 
 
 ![image](https://github.com/thanawut2903/Port-23-telnet-Linux-telnet/assets/159118913/f26392b9-0330-4b89-b132-75e07ca75113)
 6.msf 6 > set RHOST (target ip)
